@@ -2,7 +2,7 @@
 Basic annotation library for Android Sqllite
 
 # Installation
-import simpleDbAnnotations_1.0.aar as a new Android Module.
+import arrobaLiteLibrary-xxx.aar as a new Android Module.
 
 # Annotations
 
